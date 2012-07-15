@@ -1,0 +1,3 @@
+[submodule "OpenUDID"]
+	path = OpenUDID
+	url = git://github.com/ylechelle/OpenUDID.git
