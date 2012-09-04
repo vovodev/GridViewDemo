@@ -20,6 +20,8 @@
     UILabel *label = [[UILabel alloc] initWithFrame:CGRectMake(20.0f, 20.0f, 200.0f, 30.0f)];
     label.text = @"Text";
     [self.view addSubview:label];
+    
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
