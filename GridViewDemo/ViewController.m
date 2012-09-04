@@ -14,6 +14,11 @@
 
 @implementation ViewController
 
+- (void)setupProperties
+{
+    
+}
+
 - (void)viewDidLoad
 {
     [super viewDidLoad];
